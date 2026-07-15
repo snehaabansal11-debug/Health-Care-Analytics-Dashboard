@@ -243,3 +243,4 @@ The dashboard enables healthcare providers to:
 # 📷 10. Dashboard Preview
 
 ## Open the Link
+https://github.com/snehaabansal11-debug/Health-Care-Analytics-Dashboard/blob/main/Health%20Care%20Analytics%20Picture.png
